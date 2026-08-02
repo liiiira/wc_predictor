@@ -1,0 +1,4 @@
+model,log_loss,rps,brier,accuracy,macro_f1
+Soft-voting ensemble (Logistic Regression + LDA + Gradient Boosting),0.85788,0.16529,0.50441,0.60468,0.45429
+Baseline: Elo only,0.86710,0.16754,0.51058,0.59852,0.44028
+Baseline: class prior,1.05462,0.22785,0.63626,0.47291,0.21405

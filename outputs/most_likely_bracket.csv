@@ -1,0 +1,32 @@
+stage,match,team A,team B,P(A advances),predicted winner
+Round of 32,73,South Korea,Switzerland,0.3742,Switzerland
+Round of 32,74,Ecuador,Scotland,0.7261,Ecuador
+Round of 32,75,Japan,Morocco,0.5561,Japan
+Round of 32,76,Brazil,Netherlands,0.6283,Brazil
+Round of 32,77,France,Paraguay,0.7417,France
+Round of 32,78,Germany,Norway,0.5819,Germany
+Round of 32,79,Mexico,Sweden,0.8167,Mexico
+Round of 32,80,England,Ivory Coast,0.8016,England
+Round of 32,81,United States,Austria,0.6882,United States
+Round of 32,82,Iran,Senegal,0.5009,Iran
+Round of 32,83,Portugal,Croatia,0.6749,Portugal
+Round of 32,84,Spain,Algeria,0.8707,Spain
+Round of 32,85,Canada,Egypt,0.7093,Canada
+Round of 32,86,Argentina,Uruguay,0.7383,Argentina
+Round of 32,87,Colombia,Panama,0.8108,Colombia
+Round of 32,88,Turkey,Belgium,0.5700,Turkey
+Round of 16,89,Ecuador,France,0.3887,France
+Round of 16,90,Switzerland,Japan,0.4662,Japan
+Round of 16,91,Brazil,Germany,0.6577,Brazil
+Round of 16,92,Mexico,England,0.5420,Mexico
+Round of 16,93,Portugal,Spain,0.2796,Spain
+Round of 16,94,United States,Iran,0.6346,United States
+Round of 16,95,Argentina,Turkey,0.7642,Argentina
+Round of 16,96,Canada,Colombia,0.4302,Colombia
+Quarter-final,97,France,Japan,0.6528,France
+Quarter-final,98,Spain,United States,0.7770,Spain
+Quarter-final,99,Brazil,Mexico,0.6334,Brazil
+Quarter-final,100,Argentina,Colombia,0.6343,Argentina
+Semi-final,101,France,Spain,0.3734,Spain
+Semi-final,102,Brazil,Argentina,0.4155,Argentina
+Final,104,Spain,Argentina,0.5573,Spain

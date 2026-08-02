@@ -1,0 +1,10 @@
+model,cv_log_loss,configs_tried,seconds,best_params
+Logistic Regression,0.88662,16,34.70000,"C=0.1389, penalty=l1, solver=saga"
+LDA,0.88801,6,1.10000,shrinkage=0.01
+Gaussian Naive Bayes,1.35321,11,1.30000,var_smoothing=0.1
+k-Nearest Neighbours,0.90861,12,11.10000,"n_neighbors=100, weights=distance"
+Decision Tree,0.90879,70,9.00000,"criterion=gini, max_depth=5, min_samples_leaf=200"
+Random Forest,0.89386,10,42.30000,"min_samples_leaf=20, max_features=0.3, max_depth=8"
+Extra Trees,0.89961,10,19.70000,"min_samples_leaf=20, max_features=0.3, max_depth=14"
+Gradient Boosting,0.89118,15,42.10000,"min_samples_leaf=100, max_leaf_nodes=7, max_iter=100, learning_rate=0.05, l2_regularization=1.0"
+SVM (RBF),0.90843,6,43.10000,"C=0.5, gamma=0.01"
